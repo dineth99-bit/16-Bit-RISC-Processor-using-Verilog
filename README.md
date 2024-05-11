@@ -20,5 +20,7 @@ The architecture of the proposed RISC CPU is a uniform 16-bit instruction format
 9. Controller
 10. CPU
 
+![Main block diagram of the desired architecture](https://github.com/dineth99-bit/16-Bit-RISC-Processor/blob/main/main_block%20Diagram.jpg)
+
 
 
