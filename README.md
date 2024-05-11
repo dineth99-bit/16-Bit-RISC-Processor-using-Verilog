@@ -8,15 +8,7 @@ versatile solutions for a range of computing scenarios, from general-purpose app
 
 ## Processor Architecture
 
-Architechture 
-The architecture of the proposed RISC CPU is a uniform 
-16-bit instruction format, single cycle processor. It has a 
-load/store architecture, where the operations will only be 
-performed on registers, and not on memory locations. It 
-follows the classical von Neumann architecture with just one 
-common memory bus for both instructions and data 
-To achieve a 16-Bit CPU design, the individual 
-components are designed as below.
+The architecture of the proposed RISC CPU is a uniform 16-bit instruction format, single cycle processor. It has a load/store architecture, where the operations will only be performed on registers, and not on memory locations. It follows the classical von Neumann architecture with just one common memory bus for both instructions and data To achieve a 16-Bit CPU design, the individual components are designed as below.
 1. ALU
 2. Arithmetic Unit
 3. Logic Unit
